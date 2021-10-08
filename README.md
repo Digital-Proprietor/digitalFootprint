@@ -3,6 +3,7 @@ Website for Digital Footrpint. As our digital identity grows, so does our need f
             serves.
 
 Old: https://kaelanwillauer.github.io/digitalFootprint/
+
 New: https://www.digitalfootprint.ga/
 
 ## Website
